@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.web.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+            <name>HTML5Application</name>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/cdnjs-libraries/1">
+            <library name="draggabilly" version="2.1.1">
+                <file localPath="library/draggabilly/draggabilly.pkgd.js" path="draggabilly.pkgd.js"/>
+                <file localPath="library/draggabilly/draggabilly.pkgd.min.js" path="draggabilly.pkgd.min.js"/>
+            </library>
+            <library name="ngDraggable" version="0.1.11">
+                <file localPath="library/ngDraggable/ngDraggable.js" path="ngDraggable.js"/>
+                <file localPath="library/ngDraggable/ngDraggable.min.js" path="ngDraggable.min.js"/>
+                <file localPath="library/ngDraggable/ngDraggable.min.js.map" path="ngDraggable.min.js.map"/>
+            </library>
+        </libraries>
+    </configuration>
+</project>
