@@ -140,6 +140,8 @@ function jigsaw() {
             total += value ;
                 if (total === 9) {
                     $("#complete").css("visibility","visible");
+                } else {
+                    $("#complete").css("visibility","hidden");
                 };
             });
         
