@@ -78,7 +78,7 @@ function jigsaw() {
      $("#jigsaw_7").position({my: "left+200 top", at: "left top", of: "#jigsaw_container"});
      $("#jigsaw_8").position({my: "left+200 top+355", at: "left top", of: "#jigsaw_container"});
      $("#jigsaw_9").position({my: "left+355 top+355", at: "left top", of: "#jigsaw_container"});
-
+     
     /*Finally, we need to detect the snapped jigsaw pieces
     *When we have done this we will set the "completed" class elements to 
     *visible. By useing a class, rather than an id, when can arrange for a more
