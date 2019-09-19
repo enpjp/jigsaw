@@ -10,4 +10,4 @@
 # and the last row+d 
 ./jigsaw -mp -o +0+198 -d +0+198 jigsaw1-image.png Template-seven.png ../public_html/images/seven.png 
 ./jigsaw -mp -o +100+175 -d +100+175 jigsaw1-image.png Template-eight.png ../public_html/images/eight.png
-./jigsaw -mp -o +177+198 -d +177+198 jigsaw1-image.png Template-nine.png ../public_html/images/nine.png
+./jigsaw -mp -o +176+198 -d +176+198 jigsaw1-image.png Template-nine.png ../public_html/images/nine.png
