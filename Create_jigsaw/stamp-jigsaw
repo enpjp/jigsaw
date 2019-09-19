@@ -1,12 +1,12 @@
 #!/bin/bash
 # Stamp a jigsaw with imagemagick
 ./jigsaw -mp -o +0+0 -d +0+0 jigsaw1-image.png Template-one.png ../public_html/images/one.png 
-./jigsaw -mp -o +100+0 -d +100+0 jigsaw1-image.png Template-two.png ../public_html/images/two.png 
-./jigsaw -mp -o +190+0 -d +190+0 jigsaw1-image.png Template-three.png ../public_html/images/three.png 
+./jigsaw -mp -o +79+0 -d +79+0 jigsaw1-image.png Template-two.png ../public_html/images/two.png 
+./jigsaw -mp -o +200+0 -d +200+0 jigsaw1-image.png Template-three.png ../public_html/images/three.png 
 # next row
 ./jigsaw -mp -o +0+100 -d +0+100 jigsaw1-image.png Template-four.png ../public_html/images/four.png 
 ./jigsaw -mp -o +100+76 -d +100+76 jigsaw1-image.png Template-five.png ../public_html/images/five.png 
-./jigsaw -mp -o +190+100 -d +190+100 jigsaw1-image.png Template-six.png ../public_html/images/six.png 
+./jigsaw -mp -o +200+100 -d +200+100 jigsaw1-image.png Template-six.png ../public_html/images/six.png 
 # and the last row+d 
 ./jigsaw -mp -o +0+198 -d +0+198 jigsaw1-image.png Template-seven.png ../public_html/images/seven.png 
 ./jigsaw -mp -o +100+175 -d +100+175 jigsaw1-image.png Template-eight.png ../public_html/images/eight.png
