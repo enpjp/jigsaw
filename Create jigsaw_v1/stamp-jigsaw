@@ -1,0 +1,13 @@
+#!/bin/bash
+# Stamp a jigsaw with imagemagick
+./jigsaw -mp -o +0+0 -d +0+0 jigsaw1-image.png Template-one.png one.png 
+./jigsaw -mp -o +100+0 -d +100+0 jigsaw1-image.png Template-two.png two.png 
+./jigsaw -mp -o +190+0 -d +190+0 jigsaw1-image.png Template-three.png three.png 
+# next row
+./jigsaw -mp -o +0+100 jigsaw1-image.png Template-four.png four.png 
+./jigsaw -mp -o +100+76 jigsaw1-image.png Template-five.png five.png 
+./jigsaw -mp -o +190+100 jigsaw1-image.png Template-six.png six.png 
+# and the last row+d 
+./jigsaw -mp -o +0+198 jigsaw1-image.png Template-seven.png seven.png 
+./jigsaw -mp -o +100+175 jigsaw1-image.png Template-eight.png eight.png
+./jigsaw -mp -o +177+198 jigsaw1-image.png Template-nine.png nine.png
